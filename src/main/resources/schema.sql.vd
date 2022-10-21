@@ -1,0 +1,6 @@
+CREATE TABLE dog (
+    id varchar,
+    name varchar,
+    breed varchar,
+     origin varchar
+);
